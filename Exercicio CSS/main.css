@@ -107,3 +107,20 @@ section h2 {
 #economy .articles article a {
   background-color: #ff9f1a;
 }
+
+#entreterimento {
+  background-color: rgba(35, 13, 65, 0.3);
+}
+
+#entreterimento .articles article a {
+  background-color: purple;
+}
+
+#tecnologia {
+  background-color: rgba(175, 22, 22, 0.3);
+}
+
+#tecnologia .articles article a {
+  background-color: red;
+  color: #000;
+}
